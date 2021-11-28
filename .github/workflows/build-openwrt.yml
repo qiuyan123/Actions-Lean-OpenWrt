@@ -6,7 +6,7 @@
 # Blog: https://P3TERX.com
 #=================================================
 
-name: Build OpenWrt
+name: X86 OpenWrt
 
 on:
   repository_dispatch:
